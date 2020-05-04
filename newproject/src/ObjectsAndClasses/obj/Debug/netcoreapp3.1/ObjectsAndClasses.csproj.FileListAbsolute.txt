@@ -1,0 +1,12 @@
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.deps.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.runtimeconfig.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.runtimeconfig.dev.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/bin/Debug/netcoreapp3.1/ObjectsAndClasses.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.csprojAssemblyReference.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.csproj.CoreCompileInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.AssemblyInfoInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.AssemblyInfo.cs
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/ObjectsAndClasses/obj/Debug/netcoreapp3.1/ObjectsAndClasses.genruntimeconfig.cache

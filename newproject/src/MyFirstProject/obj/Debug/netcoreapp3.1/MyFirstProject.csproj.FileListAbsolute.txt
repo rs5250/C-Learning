@@ -1,0 +1,12 @@
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.deps.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.dev.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csprojAssemblyReference.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfoInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfo.cs
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.genruntimeconfig.cache

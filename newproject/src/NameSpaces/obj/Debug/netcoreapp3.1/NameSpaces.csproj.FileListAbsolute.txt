@@ -1,0 +1,12 @@
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.deps.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.runtimeconfig.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.runtimeconfig.dev.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/bin/Debug/netcoreapp3.1/NameSpaces.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.csprojAssemblyReference.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.csproj.CoreCompileInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.AssemblyInfoInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.AssemblyInfo.cs
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/NameSpaces/obj/Debug/netcoreapp3.1/NameSpaces.genruntimeconfig.cache

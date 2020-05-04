@@ -1,0 +1,12 @@
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.deps.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.runtimeconfig.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.runtimeconfig.dev.json
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/bin/Debug/netcoreapp3.1/Encapsulation.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.csprojAssemblyReference.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.AssemblyInfoInputs.cache
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.AssemblyInfo.cs
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.dll
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.pdb
+/Users/rajshree.sharma/Documents/rajshree/newproject/src/Encapsulation/obj/Debug/netcoreapp3.1/Encapsulation.genruntimeconfig.cache
